@@ -1,0 +1,22 @@
+{
+  "name": "tcflexslider",
+  "description": "flexslider by woo themes installable via bower",
+  "main": ["jquery.flexslider", "flexslider.css"],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ],
+  "keywords": [
+    "tcflex"
+  ],
+  "authors": [
+    "climboid <oscarvillarreal14@gmail.com>"
+  ],
+  "homepage": "http://www.woothemes.com/flexslider/",
+  "repository":{
+    "type":"git",
+    "url":""
+  },
+  "dependencies":{},
+  "private":false
+}
