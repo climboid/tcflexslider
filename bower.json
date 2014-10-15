@@ -1,7 +1,7 @@
 {
   "name": "tcflexslider",
   "description": "flexslider by woo themes installable via bower",
-  "main": ["jquery.flexslider", "flexslider.css"],
+  "main": ["jquery.flexslider.js", "flexslider.css"],
   "license": "MIT",
   "ignore": [
     "**/.*"
